@@ -5,7 +5,7 @@ A FullStack a realty application users can add and remove data from the database
 Here users are able to view real estate, change prices, and add their own properties with names, image url, and prices.
 
 ## Gif of Frontend
-![gif](./client/gif.gif)
+![Gif](./client/gif.gif)
 
 ## Activation
 1. Open your terminal within your code, or navigate to your repo through your computer terminal
