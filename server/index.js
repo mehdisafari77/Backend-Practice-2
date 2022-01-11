@@ -7,7 +7,6 @@ app.use(express.json());
 app.use(cors());
 
 const ctrl = require("./controller")
-
 app.get("/api/houses", ctrl.getHouses)
 
 app.post("/api/houses", ctrl.createHouse)
